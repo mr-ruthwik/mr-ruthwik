@@ -20,6 +20,9 @@ Currently sharpening my skills in **Backend** while actively looking for **Full 
 - 🚀 Looking for **Full Stack Developer** opportunities
 
 --- 
+
+**Portfolio and Resume:**
+
 **Visit my portfolio:**  https://your-portfolio-link.com
 <br>
 Explore my projects with source code, live demos, and the technologies used to build them.  
@@ -63,18 +66,13 @@ My highest contribution streak achieved on GitHub.
 
 **Connect With Me:**
 
-<div align="center">
-
-Ready to relocate for exciting opportunities as Full Stack Developer. 
-<br> 
-So, Let's connect and build innovative ideas together and real world problems.
-</div>
-
 <div align="left">
-
-- **LinkedIn:** https://linkedin.com/in/sai-ruthwik-madarapu
-
+  
+- **Mobile:** +91 93907 57804
+  
 - **Email:** mailto:sairuthwik2002@gmail.com
+  
+- **LinkedIn:** https://linkedin.com/in/sai-ruthwik-madarapu
 
 - **Instagram:** https://www.instagram.com/sai_ruthwik_madarapu/
 
@@ -82,7 +80,17 @@ So, Let's connect and build innovative ideas together and real world problems.
 
 ---
 
-**Thanks for visiting!**
-⭐ If you like my projects, don't forget to star them.
+<div align="left">
+
+
+**Thanks for visiting my profile 💗**
+
+- If you find my projects interesting give them a star ⭐.
+
+- I'm actively seeking Full Stack Developer opportunities and open to relocation.
+
+- Let's connect, collaborate and build impactful software together.
 
 </div>
+
+---
