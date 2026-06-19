@@ -14,9 +14,8 @@ Currently sharpening my skills in **Backend** while actively looking for **Full 
 
 - 🎓 Information Technology graduate from **Andhra Loyola Institute of Engineering and Technology** (JNTUK)
 - 💻 Passionate about **Full Stack Development**
-- 🌐 Love building responsive, real-world web applications
-- 📚 Currently learning **DSA, Cloud Computing, and System Design**
-- 🤝 Interested in contributing to **Open Source**
+- 🌐 Interested in building **responsive, real-world web applications**
+- 📚 Currently learning **Backend**
 - 🚀 Looking for **Full Stack Developer** opportunities
 
 --- 
