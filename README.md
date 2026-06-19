@@ -10,17 +10,17 @@ Currently sharpening my skills in **Backend** while actively looking for **Full 
 
 ---
 
- **About Me**
-
-- 🎓 Information Technology graduate from **Andhra Loyola Institute of Engineering and Technology** (JNTUK)
-- 💻 Passionate about **Full Stack Development**
-- 🌐 Interested in building **responsive, real-world web applications**
-- 📚 Currently learning **Backend**
-- 🚀 Looking for **Full Stack Developer** opportunities
+ **👤 About Me**
+ 
+- Passionate about **Full Stack Development**
+- Interested in building **responsive, real-world web applications**
+- Currently learning **Backend**
+- Looking for **Full Stack Developer** opportunities
+- Information Technology graduate from **Andhra Loyola Institute of Engineering and Technology** (JNTUK)
 
 --- 
 
-**Portfolio and Resume:**
+**📄 Portfolio and Resume**
 
 **Visit my portfolio:**  https://your-portfolio-link.com
 <br>
@@ -47,7 +47,7 @@ The total GitHub contributions, including commits, pull requests, issues, and re
 The number of days I've contributed to GitHub without missing a day.
 
 **Longest Streak:**
-My highest contribution streak achieved on GitHub.
+    My highest contribution streak achieved on GitHub.
 
 </div>
 
@@ -63,7 +63,7 @@ My highest contribution streak achieved on GitHub.
 
 ---
 
-**Connect With Me:**
+**📞 Connect With Me**
 
 <div align="left">
   
@@ -82,7 +82,7 @@ My highest contribution streak achieved on GitHub.
 <div align="left">
 
 
-**Thanks for visiting my profile 💗**
+**💗 Thanks for visiting my profile**
 
 - If you find my projects interesting give them a star ⭐.
 
