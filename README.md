@@ -61,32 +61,22 @@ My highest contribution streak achieved on GitHub.
 
 ---
 
-**Connect With Me**
+**Connect With Me:**
 
 <div align="center">
 
 Ready to relocate for exciting opportunities as Full Stack Developer. 
 <br> 
 So, Let's connect and build innovative ideas together and real world problems.
+</div>
 
-## 🤝 Let's Connect
+<div align="left">
 
+- **LinkedIn:** https://linkedin.com/in/sai-ruthwik-madarapu
 
+- **Email:** mailto:sairuthwik2002@gmail.com
 
-**💼 LinkedIn** <a href="https://linkedin.com/in/sai-ruthwik-madarapu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-
-
-**📧 Email** <a href="mailto:sairuthwik2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-
-
-**💻 HackerRank** <a href="https://www.hackerrank.com/profile/mr_ruthwik"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-
-
-
-**📷 Instagram** <a href="https://instagram.com/your-handle-here"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-
+- **Instagram:** https://www.instagram.com/sai_ruthwik_madarapu/
 
 </div>
 
