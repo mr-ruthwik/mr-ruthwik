@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3500&pause=1500&color=5B4FFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sai+Ruthwik+Madarapu" alt="Typing SVG" />
-
-<img src="https://img.shields.io/badge/-Full%20Stack%20Developer-5B4FFF?style=for-the-badge&logoColor=white" alt="Full Stack Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3000&pause=1200&color=5B4FFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sai+Ruthwik+Madarapu;Full+Stack+Developer" alt="Typing SVG" />
 
 <br><br>
 
 I build clean, responsive web applications and enjoy turning ideas into real, working products.
 Currently sharpening my skills in **DSA, Cloud Computing, and System Design** while actively looking for
 **Full Stack Developer** opportunities.
-
-<img src="https://komarev.com/ghpvc/?username=mr-ruthwik&label=Profile%20Views&color=5B4FFF&style=flat-square" alt="profile views" />
 
 </div>
 
@@ -37,8 +33,6 @@ Currently sharpening my skills in **DSA, Cloud Computing, and System Design** wh
 
 </div>
 
-> Replace the two links above with your live portfolio URL and a public resume link (Google Drive "anyone with the link" or a hosted PDF).
-
 ---
 
 ### Featured Projects
@@ -47,56 +41,71 @@ Currently sharpening my skills in **DSA, Cloud Computing, and System Design** wh
 <tr>
 <td width="50%" valign="top">
 
-**[Bookmark Saver](https://github.com/mr-ruthwik/bookmark_saver)**
+<img src="https://img.shields.io/badge/Bookmark%20Saver-5B4FFF?style=flat-square" />
+
+<br><br>
+
 Responsive bookmark manager to save, organize, and access favourite links with a clean interface.
 
 `HTML` `CSS` `JavaScript`
 
-[🔗 GitHub](https://github.com/mr-ruthwik/bookmark_saver) · [🌐 Live Demo](https://bookmark-saver-three.vercel.app/)
+<a href="https://github.com/mr-ruthwik/bookmark_saver"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a> <a href="https://bookmark-saver-three.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-0F9D58?style=flat" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-**[Housie Game](https://github.com/mr-ruthwik/housie)**
+<img src="https://img.shields.io/badge/Housie%20Game-5B4FFF?style=flat-square" />
+
+<br><br>
+
 Interactive Tambola/Housie game with real-time number generation and automatic ticket tracking.
 
 `HTML` `CSS` `JavaScript`
 
-[🔗 GitHub](https://github.com/mr-ruthwik/housie) · [🌐 Live Demo](https://housie-six.vercel.app/)
+<a href="https://github.com/mr-ruthwik/housie"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a> <a href="https://housie-six.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-0F9D58?style=flat" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[Weather Forecast](https://github.com/mr-ruthwik/weather)**
+<img src="https://img.shields.io/badge/Weather%20Forecast-5B4FFF?style=flat-square" />
+
+<br><br>
+
 Real-time weather app powered by the OpenWeatherMap API showing live temperature & conditions.
 
 `HTML` `CSS` `JavaScript` `REST API`
 
-[🔗 GitHub](https://github.com/mr-ruthwik/weather) · [🌐 Live Demo](https://weather-pi-two-69.vercel.app/)
+<a href="https://github.com/mr-ruthwik/weather"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a> <a href="https://weather-pi-two-69.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-0F9D58?style=flat" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-**[Todo List](https://github.com/mr-ruthwik/to-do-list)**
+<img src="https://img.shields.io/badge/Todo%20List-5B4FFF?style=flat-square" />
+
+<br><br>
+
 Clean task manager to add, edit, complete, and delete tasks with local storage persistence.
 
 `HTML` `CSS` `JavaScript` `Local Storage`
 
-[🔗 GitHub](https://github.com/mr-ruthwik/to-do-list) · [🌐 Live Demo](https://mr-ruthwik.github.io/to-do-list/)
+<a href="https://github.com/mr-ruthwik/to-do-list"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a> <a href="https://mr-ruthwik.github.io/to-do-list/"><img src="https://img.shields.io/badge/🌐_Live_Demo-0F9D58?style=flat" /></a>
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-**FinSight — Expense Tracker** &nbsp;·&nbsp; *Academic Project*
+<img src="https://img.shields.io/badge/FinSight%20—%20Expense%20Tracker-5B4FFF?style=flat-square" /> &nbsp; <i>Academic Project</i>
+
+<br><br>
+
 Expense and income management web app with budgeting and spend-visualization features.
 
 `HTML` `CSS` `JavaScript` `Firebase` `Google Sheets`
 
-[📄 View Project](https://drive.google.com/file/d/1hOeqP1fyXs5YzDH_2oxzpAhhOD3NMxTX/view)
+<a href="https://drive.google.com/file/d/1hOeqP1fyXs5YzDH_2oxzpAhhOD3NMxTX/view"><img src="https://img.shields.io/badge/📄_View_Project-2E3A59?style=flat" /></a>
 
 </td>
 </tr>
@@ -142,19 +151,13 @@ Expense and income management web app with budgeting and spend-visualization fea
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/EmailJS-FF6B6B?style=for-the-badge" />
 
-</div>
+<br><br>
 
-<details>
-<summary><b>Other skills</b></summary>
+**Other Skills**
 <br>
-
-<div align="center">
-
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> <img src="https://img.shields.io/badge/API%20Integration-2E3A59?style=for-the-badge" /> <img src="https://img.shields.io/badge/Responsive%20Design-2E3A59?style=for-the-badge" /> <img src="https://img.shields.io/badge/CRUD-2E3A59?style=for-the-badge" /> <img src="https://img.shields.io/badge/DOM-2E3A59?style=for-the-badge" /> <img src="https://img.shields.io/badge/OOP-2E3A59?style=for-the-badge" />
 
 </div>
-
-</details>
 
 ---
 
@@ -167,10 +170,6 @@ Expense and income management web app with budgeting and spend-visualization fea
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ruthwik&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-ruthwik&theme=tokyo-night&hide_border=true" />
 
 </div>
 
