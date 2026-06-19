@@ -2,15 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3000&pause=1200&color=5B4FFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sai+Ruthwik+Madarapu;Full+Stack+Developer" alt="Typing SVG" />
 
-<br><br>
-
-I build clean, responsive web applications and enjoy turning ideas into real, working products.
-Currently sharpening my skills in **DSA, Cloud Computing, and System Design** while actively looking for
-**Full Stack Developer** opportunities.
+I build clean, responsive web applications and enjoy turning ideas into real, working products. Currently sharpening my skills in **DSA, Cloud Computing, and System Design** while actively looking for **Full Stack Developer** opportunities.
 
 </div>
-
-<br>
 
 ---
 
@@ -41,71 +35,61 @@ Currently sharpening my skills in **DSA, Cloud Computing, and System Design** wh
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/Bookmark%20Saver-5B4FFF?style=flat-square" />
-
-<br><br>
+**Bookmark Saver**
 
 Responsive bookmark manager to save, organize, and access favourite links with a clean interface.
 
 `HTML` `CSS` `JavaScript`
 
-<a href="https://github.com/mr-ruthwik/bookmark_saver"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a> <a href="https://bookmark-saver-three.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-0F9D58?style=flat" /></a>
+[🔗 GitHub](https://github.com/mr-ruthwik/bookmark_saver) · [🌐 Live Demo](https://bookmark-saver-three.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/Housie%20Game-5B4FFF?style=flat-square" />
-
-<br><br>
+**Housie Game**
 
 Interactive Tambola/Housie game with real-time number generation and automatic ticket tracking.
 
 `HTML` `CSS` `JavaScript`
 
-<a href="https://github.com/mr-ruthwik/housie"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a> <a href="https://housie-six.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-0F9D58?style=flat" /></a>
+[🔗 GitHub](https://github.com/mr-ruthwik/housie) · [🌐 Live Demo](https://housie-six.vercel.app/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/Weather%20Forecast-5B4FFF?style=flat-square" />
-
-<br><br>
+**Weather Forecast**
 
 Real-time weather app powered by the OpenWeatherMap API showing live temperature & conditions.
 
 `HTML` `CSS` `JavaScript` `REST API`
 
-<a href="https://github.com/mr-ruthwik/weather"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a> <a href="https://weather-pi-two-69.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-0F9D58?style=flat" /></a>
+[🔗 GitHub](https://github.com/mr-ruthwik/weather) · [🌐 Live Demo](https://weather-pi-two-69.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/Todo%20List-5B4FFF?style=flat-square" />
-
-<br><br>
+**Todo List**
 
 Clean task manager to add, edit, complete, and delete tasks with local storage persistence.
 
 `HTML` `CSS` `JavaScript` `Local Storage`
 
-<a href="https://github.com/mr-ruthwik/to-do-list"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a> <a href="https://mr-ruthwik.github.io/to-do-list/"><img src="https://img.shields.io/badge/🌐_Live_Demo-0F9D58?style=flat" /></a>
+[🔗 GitHub](https://github.com/mr-ruthwik/to-do-list) · [🌐 Live Demo](https://mr-ruthwik.github.io/to-do-list/)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-<img src="https://img.shields.io/badge/FinSight%20—%20Expense%20Tracker-5B4FFF?style=flat-square" /> &nbsp; <i>Academic Project</i>
-
-<br><br>
+**FinSight — Expense Tracker** &nbsp;·&nbsp; *Academic Project*
 
 Expense and income management web app with budgeting and spend-visualization features.
 
 `HTML` `CSS` `JavaScript` `Firebase` `Google Sheets`
 
-<a href="https://drive.google.com/file/d/1hOeqP1fyXs5YzDH_2oxzpAhhOD3NMxTX/view"><img src="https://img.shields.io/badge/📄_View_Project-2E3A59?style=flat" /></a>
+[📄 View Project](https://drive.google.com/file/d/1hOeqP1fyXs5YzDH_2oxzpAhhOD3NMxTX/view)
 
 </td>
 </tr>
